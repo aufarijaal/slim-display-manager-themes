@@ -1,0 +1,35 @@
+# xubuntu theme for SLIM
+# by aufa rijal @aufarijaal
+
+# Messages (ie: shutdown)
+
+msg_color               #ffffff
+msg_font                Sans:size=18:bold:dpi=75
+msg_x                   50%
+msg_y                   30%
+
+# Session Name
+
+session_color               #ffffff
+session_font                Sans:size=16:bold:dpi=75
+session_x                   50%
+session_y                   92%
+
+# valid values: stretch, tile
+
+background_style        stretch
+background_color        #f2f2f2
+
+# Input controls
+
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            70
+input_name_y            155
+input_pass_x            70
+input_pass_y            240
+input_font              Sans:size=14:dpi=75
+input_color           #3CB7F4
+
+username_msg            
+password_msg            
