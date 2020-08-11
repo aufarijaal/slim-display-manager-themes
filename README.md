@@ -44,3 +44,12 @@ SLiM Display Manager themes pack with linux popular distro logos
 
 **Xubuntu theme** <br>
 ![xubuntu](https://github.com/aufarijaal/slim-themes/blob/master/previews/xubuntu.png) <br>
+
+# **Note :**
+1. You may edit some of the configuration of each theme if there is any unexpected error like the position of password and name input and the panel too. But I already tried best practice so that the theme show the layout properly
+2. These themes built priority for 1366 x 768 screen resolution.
+
+
+## **_TODO :_**
+1. add more themes (distros)
+2. add more themes (common theme)
