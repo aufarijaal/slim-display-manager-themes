@@ -3,7 +3,7 @@ SLiM Display Manager themes pack with linux popular distro logos
 
 ## Preview themes
 
-
+**Common Themes**
 **simple-blur** | simple-blur-beach |
 ---------|----------|
  ![simple-blur](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur.png) | ![simple-blur-beach](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-beach.png) |
@@ -12,6 +12,7 @@ simple-blur-forest | simple-blur-mountain |
 ---------|----------|
  ![simple-blur-forest](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-forest.png) | ![simple-blur-mountain](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-mountain.png) |
 
+**Distros Themes**
 **Arch theme** <br>
 ![arch](https://github.com/aufarijaal/slim-themes/blob/master/previews/arch.png) <br>
 
