@@ -8,7 +8,7 @@ SLiM Display Manager themes pack
 <details>
     <summary>Quick Links</summary>
 *     <a href="https://github.com/aufarijaal/slim-display-manager-themes#-common-themes-">Common Themes</a> <br>
-*     <a href="https://github.com/aufarijaal/slim-display-manager-themes#-distro-themes-">Distro Themes</a>
+*     <a href="https://github.com/aufarijaal/slim-display-manager-themes#-distro-themes-">Distros Themes</a>
 </details>
 
 ## Preview themes
@@ -23,8 +23,10 @@ simple-blur-forest | simple-blur-mountain |
 ---------|----------|
  ![simple-blur-forest](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-forest.png) | ![simple-blur-mountain](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-mountain.png) |
 
-<a name="distro-themes"> **Distros Themes** </a> <br> <br>
+### **<a name="distro-themes"> Distros Themes </a>** <br> <br>
+
 <a name="arch"> **arch** </a> <br>
+
 ![arch](https://github.com/aufarijaal/slim-themes/blob/master/previews/arch.png) <br>
 
 **bodhi** <br>
