@@ -8,7 +8,7 @@ SLiM Display Manager themes pack
 <details>
     <summary>Quick Links</summary>
 *     <a href="https://github.com/aufarijaal/slim-display-manager-themes#-common-themes-">Common Themes</a> <br>
-*     <a href="https://github.com/aufarijaal/slim-display-manager-themes#-distro-themes-">Distros Themes</a>
+*     <a href="https://github.com/aufarijaal/slim-display-manager-themes#-distro-themes---">Distros Themes</a>
 </details>
 
 ## Preview themes
