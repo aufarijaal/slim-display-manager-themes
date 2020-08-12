@@ -7,7 +7,8 @@ SLiM Display Manager themes pack
 
 <details>
     <summary>Quick Links</summary>
-    [Common Themes](https://github.com/aufarijaal/slim-display-manager-themes#-common-themes-)
+*     <a href="https://github.com/aufarijaal/slim-display-manager-themes#-common-themes-">Common Themes</a>
+
 </details>
 
 ## Preview themes
