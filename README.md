@@ -1,9 +1,18 @@
 # SLiM Display Manager Themes
-SLiM Display Manager themes pack with linux popular distro logos
+SLiM Display Manager themes pack
+
+[SLiM](https://sourceforge.net/projects/slim.berlios/) is an acronym for Simple Login Manager. Lightweight and easily configurable, SLiM requires minimal dependencies, and none from the GNOME or KDE desktop environments. It therefore contributes towards a lightweight system for users that also like to use lightweight desktops such as Xfce, Openbox, and Fluxbox. 
+
+**Warning:** The SliM project has been abandoned (last release was 2013), and is not fully compatible with systemd, including logind sessions. Consider using a different Display manager or Xinitrc.
+
+<details>
+    <summary>Quick Links</summary>
+    [Common Themes](https://github.com/aufarijaal/slim-display-manager-themes#-common-themes)
+</details>
 
 ## Preview themes
 
-**Common Themes**
+### **common-themes**
 **simple-blur** | simple-blur-beach |
 ---------|----------|
  ![simple-blur](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur.png) | ![simple-blur-beach](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-beach.png) |
@@ -12,47 +21,47 @@ simple-blur-forest | simple-blur-mountain |
 ---------|----------|
  ![simple-blur-forest](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-forest.png) | ![simple-blur-mountain](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-mountain.png) |
 
-**Distros Themes**
-**Arch theme** <br>
+**Distros Themes** <br> <br>
+**arch** <br>
 ![arch](https://github.com/aufarijaal/slim-themes/blob/master/previews/arch.png) <br>
 
-**Bodhi theme** <br>
+**bodhi** <br>
 ![bodhi](https://github.com/aufarijaal/slim-themes/blob/master/previews/bodhi.png) <br>
 
-**Debian theme** <br>
+**debian** <br>
 ![debian](https://github.com/aufarijaal/slim-themes/blob/master/previews/debian.png) <br>
 
-**Fedora theme** <br>
+**fedora** <br>
 ![fedora](https://github.com/aufarijaal/slim-themes/blob/master/previews/fedora.png) <br>
 
-**Gentoo theme** <br>
+**gentoo** <br>
 ![gentoo](https://github.com/aufarijaal/slim-themes/blob/master/previews/gentoo.png) <br>
 
-**Kubuntu theme** <br>
+**kubuntu** <br>
 ![kubuntu](https://github.com/aufarijaal/slim-themes/blob/master/previews/kubuntu.png) <br>
 
-**Manjaro theme** <br>
+**manjaro** <br>
 ![manjaro](https://github.com/aufarijaal/slim-themes/blob/master/previews/manjaro.png) <br>
 
-**Ubuntu MATE theme** <br>
+**mate** <br>
 ![mate](https://github.com/aufarijaal/slim-themes/blob/master/previews/mate.png) <br>
 
-**Mint theme** <br>
+**mint** <br>
 ![mint](https://github.com/aufarijaal/slim-themes/blob/master/previews/mint.png) <br>
 
-**MX Linux theme** <br>
+**mx** <br>
 ![mx](https://github.com/aufarijaal/slim-themes/blob/master/previews/mx.png) <br>
 
-**Peppermint Linux theme** <br>
+**peppermint** <br>
 ![peppermint](https://github.com/aufarijaal/slim-themes/blob/master/previews/peppermint.png) <br>
 
-**Ubuntu theme** <br>
+**ubuntu** <br>
 ![ubuntu](https://github.com/aufarijaal/slim-themes/blob/master/previews/ubuntu.png) <br>
 
-**Void Linux theme** <br>
+**void** <br>
 ![void](https://github.com/aufarijaal/slim-themes/blob/master/previews/void.png) <br>
 
-**Xubuntu theme** <br>
+**xubuntu** <br>
 ![xubuntu](https://github.com/aufarijaal/slim-themes/blob/master/previews/xubuntu.png) <br>
 
 # **Note :**
