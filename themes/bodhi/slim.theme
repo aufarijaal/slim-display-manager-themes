@@ -18,7 +18,7 @@ session_y                   92%
 # valid values: stretch, tile
 
 background_style        stretch
-background_color        #f2f2f2
+background_color        #21242C
 
 # Input controls
 
