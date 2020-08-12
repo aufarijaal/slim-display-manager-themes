@@ -7,12 +7,13 @@ SLiM Display Manager themes pack
 
 <details>
     <summary>Quick Links</summary>
-    [Common Themes](https://github.com/aufarijaal/slim-display-manager-themes#-common-themes)
+    [Common Themes](#common-themes)
 </details>
 
 ## Preview themes
 
-### **common-themes**
+### <a name="common-themes"> Common Themes </a>
+
 **simple-blur** | simple-blur-beach |
 ---------|----------|
  ![simple-blur](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur.png) | ![simple-blur-beach](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-beach.png) |
@@ -22,7 +23,7 @@ simple-blur-forest | simple-blur-mountain |
  ![simple-blur-forest](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-forest.png) | ![simple-blur-mountain](https://github.com/aufarijaal/slim-display-manager-themes/blob/master/previews/simple-blur-mountain.png) |
 
 **Distros Themes** <br> <br>
-**arch** <br>
+<a name="arch"> **arch** </a> <br>
 ![arch](https://github.com/aufarijaal/slim-themes/blob/master/previews/arch.png) <br>
 
 **bodhi** <br>
